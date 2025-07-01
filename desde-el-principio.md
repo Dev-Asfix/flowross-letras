@@ -1,7 +1,11 @@
 # 🎵 Título: “Desde el Principio” 🎵  
-**Autor:** Flowross (alias de Devasfix)  
+
+**Autor legal:** Pablo Rosas Ramírez  
+**Nombre artístico:** Flowross
+**Correo de contacto:** rosasramirez753@gmail.com  
 **Fecha de creación:** 1 de julio de 2025  
 **Licencia:** Todos los derechos reservados  
+**Prohibida la copia, modificación o uso sin autorización expresa del autor.**
 
 ---
 

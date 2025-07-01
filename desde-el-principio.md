@@ -1,11 +1,11 @@
 # 🎵 Título: “Desde el Principio” 🎵  
 
 **Autor legal:** Pablo Rosas Ramírez  
-**Nombre artístico:** Flowross
+**Nombre artístico:** Flowross  
 **Correo de contacto:** rosasramirez753@gmail.com  
 **Fecha de creación:** 1 de julio de 2025  
 **Licencia:** Todos los derechos reservados  
-**Prohibida la copia, modificación o uso sin autorización expresa del autor.**
+> Queda prohibida la reproducción total o parcial, distribución, comunicación pública, adaptación o modificación de esta obra sin la autorización expresa y por escrito del autor.
 
 ---
 
